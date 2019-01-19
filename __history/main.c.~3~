@@ -5,6 +5,6 @@ int main(){
       prinf("Hello world ok \n")
 
    prinf("Hello \n")
-   // ahora yo solo
+   // modificación de código
 
 }
